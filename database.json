@@ -1,0 +1,62 @@
+[
+  {
+      "id" : 1.0,
+      "name" : "Pote para Ração",
+      "description" : "Pote que suporta 3 litros, inclui a pá para servir, otima vedação e tampa com relevo nas extremidades",
+      "price" : 39.99
+  },
+  {
+      "id" : 2.0,
+      "name" : "Tapete Higiênico",
+      "description" : "Tapete higiênico com cheirinho cítrico para os clientes economizarem tempo e dinheiro",
+      "price" : 49.99
+  },
+  {
+      "id" : 3.0,
+      "name" : "Cama Flex Pet Azul Marinho",
+      "description" : "Fácil de higienizar, leve para transportar, possui maior resistência e conforto para seu pet",
+      "price" : 59.99
+  },
+  {
+      "id" : 4.0,
+      "name" : "Shampoo Antipulgas",
+      "description" : "Antiséptico, elimina pulgas, carrapatos e piolhos com fórmula suave para ser aplicado até em filhotes",
+      "price" : 19.99
+  },
+  {
+      "id" : 5.0,
+      "name" : "Brinquedo Sonoro Frango Gritador",
+      "description" : "Leve, macio, formato engraçado e totalmente atóxico",
+      "price" : 12.99
+  },
+  {
+      "id" : 6.0,
+      "name" : "Ração Seca Natural",
+      "description" : "Com atioxidantes naturais, ideal para saúde dos pelos e pele, proteção imunólogica e contribui com a saúde intestinal do seu pet",
+      "price" : 42.99
+  },
+  {
+      "id" : 7.0,
+      "name" : "Coleira",
+      "description" : "Confortável, design moderno e toque simples para deixar seu pet elegante",
+      "price" : 19.99
+  },
+  {
+      "id" : 8.0,
+      "name" : "Guia retrátil",
+      "description" : "Guia retrátil Preto de 3 metros que suporta até 5 kg",
+      "price" : 19.99
+  },
+  {
+      "id" : 9.0,
+      "name" : "Osso Chomp",
+      "description" : "Previne no controle do tártaro, proporciona gengivas mais saudáveis e combate o mau hálito",
+      "price" : 9.99
+  },
+  {
+      "id" : 10,
+      "name" : "Petisco Gold",
+      "description" : "Pedacinhos crocantes por fora e macio por dentro no sabor frango",
+      "price" : 5.99
+  }
+]
